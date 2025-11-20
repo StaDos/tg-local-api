@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-telegram-bot==20.8
+aiofiles
+python-dotenv
